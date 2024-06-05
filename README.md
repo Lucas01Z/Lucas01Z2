@@ -6,6 +6,5 @@ Meu nome é Lucas
 
 -Estou me desenvolvendo na linguagem JavaScript
 
--Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-
-![https://media1.tenor.com/m/uwkPwunWoVoAAAAC/ultra-instinct-goku-vi%CE%BFlet.gif]
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvido
+![](https://media.tenor.com/MRxy_weYgQYAAAAM/goku-ultra-instinct-kakarot.gif)
