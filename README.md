@@ -7,4 +7,4 @@ Meu nome é Lucas
 -Estou me desenvolvendo na linguagem JavaScript
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvido
-![](https://media1.tenor.com/m/Nir7MGPsQ1EAAAAd/drip-chicken-drip.gif)
+![](https://media1.tenor.com/m/EWuNdhEYlVkAAAAd/kriziebizie-krizziebuoy.gif)
