@@ -7,4 +7,4 @@ Meu nome é Lucas
 -Estou me desenvolvendo na linguagem JavaScript
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvido
-![](https://media1.tenor.com/m/pc4Upriay34AAAAC/cat-smurf-mushroom-smurf-cat.gif).
+![](https://media1.tenor.com/m/tgEQE5rmRXUAAAAd/smurfs-dance-party-smurf-dance.gif).
